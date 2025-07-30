@@ -1,6 +1,4 @@
----
-
-🧨 DOOMSDAY PROTOCOL
+DOOMSDAY PROTOCOL
 
 Issued by: Commander Hulagu
 Version 1.0 | July 2025
